@@ -14,6 +14,7 @@ const Home = () => {
         <a>Users</a>
       </Link>
       <h1>Hello World!!!</h1>
+      <img src="/static/whatsapp-logo.png" alt="whatsapp logo" width="100" />
     </>
   );
 };

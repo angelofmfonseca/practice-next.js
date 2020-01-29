@@ -11929,7 +11929,16 @@ var Home = function Home() {
       lineNumber: 16
     },
     __self: this
-  }, "Hello World!!!"));
+  }, "Hello World!!!"), __jsx("img", {
+    src: "/static/whatsapp-logo.png",
+    alt: "whatsapp logo",
+    width: "100",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Object(_src_hocs_withAnalytics__WEBPACK_IMPORTED_MODULE_3__["default"])()(Home));

@@ -1091,7 +1091,7 @@ class MyDocument extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
         lineNumber: 9
       },
       __self: this
-    }, `body { background: #00A847 }`)), __jsx("body", {
+    }, `body { background: #C0C0C0 }`)), __jsx("body", {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 11
