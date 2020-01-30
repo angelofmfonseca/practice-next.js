@@ -3,7 +3,7 @@ import Axios from "axios";
 import Head from "next/head";
 import Link from "next/link";
 
-import withAnalytics from "../src/hocs/withAnalytics";
+import withAnalytics from "~/hocs/withAnalytics";
 
 const Detail = ({ user }) => {
   return (
